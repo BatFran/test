@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518537609626.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F827C2EC",
+    "lastKnownWriteTime" : 1518542309,
+    "last_content_update" : 1518542309173,
+    "path" : "C:/Users/Francisco/Desktop/francisco_qp shit/test/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "75,3",
+        "last_setup_crc32" : "68BD0B01bb338d19",
+        "scrollLine" : "58",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
