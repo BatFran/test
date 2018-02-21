@@ -1,0 +1,6 @@
+"0","my_data <- beginningReaders %>%"
+"0","  select(., x = LogFrequency, y =  ProportionOfErrors)"
+"0","my_data %>%"
+"0","  ggplot(., aes(x = x, y = y)) +"
+"0","    geom_point() +"
+"0","    geom_smooth(method = 'lm')"
